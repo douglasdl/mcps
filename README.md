@@ -1,3 +1,8 @@
+# Claude Code
+
+- [Claude Code Usage Analysis](https://ccusage.com/)
+- [Claude Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor)
+
 # MCPs - Model Context Protocol
 
 - [Context7](https://context7.com/)
