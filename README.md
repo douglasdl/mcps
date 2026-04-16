@@ -9,4 +9,4 @@
 - [Pencil](https://www.pencil.dev/)
 - [Figma](https://www.figma.com/pt-br/mcp-catalog/)
 - [Octocode](https://octocode.ai/)
-- []()
+- [Shadcn](https://ui.shadcn.com/docs/mcp)
