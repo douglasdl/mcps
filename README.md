@@ -10,3 +10,9 @@
 - [Figma](https://www.figma.com/pt-br/mcp-catalog/)
 - [Octocode](https://octocode.ai/)
 - [Shadcn](https://ui.shadcn.com/docs/mcp)
+
+
+# CLIs - Command Line Interface
+
+- [Github CLI](https://cli.github.com/)
+- [Cloudflare Wrangler CLI](https://developers.cloudflare.com/workers/wrangler/)
