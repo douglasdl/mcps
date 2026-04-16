@@ -16,3 +16,4 @@
 
 - [Github CLI](https://cli.github.com/)
 - [Cloudflare Wrangler CLI](https://developers.cloudflare.com/workers/wrangler/)
+- [Turso CLI](https://docs.turso.tech/cli/installation)
